@@ -44,9 +44,3 @@ I also sell [GraphQL::Pro](http://graphql.pro) which provides several features o
 - Implement the GraphQL spec & support a Relay front end
 - Provide idiomatic, plain-Ruby API with similarities to reference implementation where possible
 - Support Ruby on Rails and Relay
-
-## Getting Involved
-
-- __Say hi & ask questions__ in the [#ruby channel on Slack](https://graphql-slack.herokuapp.com/) or [on Twitter](https://twitter.com/rmosolgo)!
-- __Report bugs__ by posting a description, full stack trace, and all relevant code in a  [GitHub issue](https://github.com/rmosolgo/graphql-ruby/issues).
-- __Start hacking__ with the [Development guide](http://graphql-ruby.org/development).
